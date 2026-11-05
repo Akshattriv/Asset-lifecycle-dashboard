@@ -35,3 +35,12 @@ The Excel workbook is loaded once into pandas. All business logic lives in
 `backend/app/analytics.py` (framework-free, easy to unit-test), which FastAPI
 exposes as REST endpoints (`/api/summary`, `/api/stock/grid`, ...). The React
 app consumes them through a Vite dev proxy.
+
+<img width="1517" height="698" alt="asset-dashboard1" src="https://github.com/user-attachments/assets/cc872949-5f26-4e42-9ba3-c0a50bb24c50" />
+
+<img width="1524" height="696" alt="asset-dashboard2" src="https://github.com/user-attachments/assets/09fc33a1-706d-4098-9d1b-6a36ba16dde8" />
+
+<img width="1521" height="693" alt="asset-dashboard3" src="https://github.com/user-attachments/assets/d5215068-42d6-4332-bfb3-88236b1486de" />
+
+<img width="1532" height="693" alt="image" src="https://github.com/user-attachments/assets/11c9aecf-823b-4b94-9e7a-9f3c599c6d9d" />
+
